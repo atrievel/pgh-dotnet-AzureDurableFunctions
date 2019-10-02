@@ -1,0 +1,25 @@
+[
+    {
+        "Id": "00000000-0000-0000-0000-000000000000",
+        "Customer": {
+            "Name": "Ray Altenwerth",
+            "Address": "749 Gaylord Square",
+            "Country": "Serbia",
+            "Email": "Delores15@yahoo.com"
+        },
+        "PurchasedItems": [
+            {
+                "Id": "5409368649466",
+                "Name": "Sleek Soft Hat",
+                "Price": 655.62
+            },
+            {
+                "Id": "3636337055870",
+                "Name": "Rustic Fresh Bike",
+                "Price": 237.35
+            }
+        ],
+        "Total": 0.0,
+        "OrderStatus": 0
+    }
+]
